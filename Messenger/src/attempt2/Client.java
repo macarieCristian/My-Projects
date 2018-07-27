@@ -81,7 +81,7 @@ public class Client
 						chat = input.readLine();
 						System.out.println(chat);
 					}
-					while(chat!="exit");
+					while(!chat.equals("exit"));
 				}
 				catch(IOException e)
 				{
