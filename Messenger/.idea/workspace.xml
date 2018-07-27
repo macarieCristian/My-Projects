@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73799ab6-cbce-4d4e-a0b2-8367d4cb2816" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/server/Client$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/server/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/server/MyRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/server/Server.class" beforeDir="false" />
-    </list>
+    <list default="true" id="73799ab6-cbce-4d4e-a0b2-8367d4cb2816" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -245,7 +240,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
